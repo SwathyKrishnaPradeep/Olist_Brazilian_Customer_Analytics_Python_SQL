@@ -63,7 +63,6 @@ The project uses the following tables:
 | Visualization    | Matplotlib, Seaborn |
 | Machine Learning | Scikit-learn        |
 | Development      | Jupyter Notebook    |
-| Version Control  | Git & GitHub        |
 
 ---
 
